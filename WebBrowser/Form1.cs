@@ -13,7 +13,7 @@ using System.IO;
 using System.Threading;
 
 #pragma warning disable IDE1006 // Naming Styles
-#pragma warning disable IDE0017 // Simplify object initialization
+#pragma warning disable IDE0017 // Simpliasfy object initialization
 #pragma warning disable CS0168 // Variable is declared but never used
 
 namespace WebBrowser
@@ -162,7 +162,7 @@ namespace WebBrowser
             using (SaveFileDialog sfd = new SaveFileDialog())
             {
                 sfd.AddExtension = true;
-                sfd.Filter = "HTML | .html";
+                sfd.Filter = "HTML (.html)|*.html|PHP (.php)|*.php|CSS (.css)|*.css|JavaScript (.js)|*.js";
                 if (sfd.ShowDialog() == DialogResult.OK)
                 {
                     SaveFile(Path.GetDirectoryName(sfd.FileName),sfd.FileName);
