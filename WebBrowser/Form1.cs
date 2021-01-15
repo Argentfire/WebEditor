@@ -231,5 +231,15 @@ namespace WebBrowser
             }
             catch (Exception ex) { }
         }
+
+        private void btnGO_Click(object sender, EventArgs e)
+        {
+            if (txtWebURL.Text != string.Empty)
+            {
+                webBrowser.Navigate(txtWebURL.Text);
+            }
+            else
+                webBrowser.Navigate("About:Blank");
+        }
     }
 }

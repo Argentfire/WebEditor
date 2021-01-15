@@ -1,0 +1,7 @@
+﻿MENU STRIP
+	File - Open & Save do as they are named
+	Edit - Cut & Copy only work for the time being
+	Display Editor in Browser - saves your editor's content to a temporary file in "bin\Debug/Release\tmp\"
+
+RIGHT PANEL - BROWSER
+	Everything is working :)

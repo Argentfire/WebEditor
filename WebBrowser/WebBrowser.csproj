@@ -90,5 +90,8 @@
   <ItemGroup>
     <None Include="Resources\Refresh_Button.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="DOCUMENTATION.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
