@@ -357,7 +357,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip;
             this.Name = "Form1";
-            this.Text = "Page Editor";
+            this.Text = "Web Page Editor";
             this.panelNavigation.ResumeLayout(false);
             this.panelNavigation.PerformLayout();
             this.panelBrowser.ResumeLayout(false);

@@ -18,3 +18,4 @@ C:\Users\Test-2020\Documents\GitHub\Terminal\WebEditor\WebBrowser\obj\Debug\WebB
 C:\Users\Test-2020\Documents\GitHub\Terminal\WebEditor\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
 C:\Users\Test-2020\Documents\GitHub\Terminal\WebEditor\WebBrowser\obj\Debug\WebBrowser.exe
 C:\Users\Test-2020\Documents\GitHub\Terminal\WebEditor\WebBrowser\obj\Debug\WebBrowser.pdb
+C:\Users\Test-2020\Documents\GitHub\Terminal\WebEditor\WebBrowser\bin\Debug\index.ico

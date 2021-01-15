@@ -92,6 +92,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DOCUMENTATION.txt" />
+    <Content Include="index.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
